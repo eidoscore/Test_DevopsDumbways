@@ -3,4 +3,4 @@ Devops adalah sebuah bidang pekerjaan yang bertugas mengotomasi anatara pengemba
 cukup penting apalagi perusahaan yang berkecimpung dunia IT hal  ini sangat dibutuhkan untuk membantu mempercepat pekerjaan development aplikasi dan merilis ke publik sert melakukan maintenance kedepannya.
 ---
 Berikut flow Development sampai ke tahap production : 
-![Image of Flow](https://octodex.github.com/images/yaktocat.png)
+!![Image of Flow](/folder-images-jawaban-01/01.png)
